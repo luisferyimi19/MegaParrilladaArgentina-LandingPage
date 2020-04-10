@@ -3,4 +3,4 @@ University project
 
 Version 1.0.0
 
-Autho: Luis Dávila
+Author: Luis Dávila
